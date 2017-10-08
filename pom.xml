@@ -4,7 +4,7 @@
 
   <groupId>sample.demo</groupId>
   <artifactId>release-parent</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <version>${revision}</version>
   <packaging>pom</packaging>
 
   <url>http://maven.apache.org</url>
